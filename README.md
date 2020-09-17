@@ -12,7 +12,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
   - flask and django in python.
   - Data Structures and Algorithms in Java.
 
-### 📫 How to reach me: ...
+### 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
 ### 📚 Quotes:
