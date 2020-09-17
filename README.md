@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is John Wesley Kommala
-![Alt Text](https://tenor.com/view/hello-sexy-hi-hello-mr-bean-gif-13830351)
+![Alt Text](https://tenor.com/view/hello-sexy-hi-hello-mr-bean-gif-13830351) 
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
