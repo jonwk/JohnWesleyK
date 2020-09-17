@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is John Wesley Kommala
+My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)(Year-II) at [TCD](https://www.tcd.ie/).
+
 
 ![Alt Text](https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif) 
 
 ### 🔭 I’m currently working on:
   - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
-  - Improving skills for web developement and making my own website.
+  - Improving skills on web developement to make my own website.
 ### 🌱 I’m currently learning:
   - flask and django in python.
   - Data Structures and Algorithms in Java.
@@ -32,9 +33,13 @@ My name is John Wesley Kommala
 
 ![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
 
-### ⚡ Fun fact: ...
-
-## Thank you for visiting my profile
+### ⚡ Fun fact:
+ - Fought obesity, over it successfully. 
+ - Love the big three lifts, omw to unlocking clean pullups.
+ - Have been doing origami and paper-crafts from a really long time.
+ - Working on a broken laptop lol.
+ 
+### 🙏 Thanks for visiting my profile
 
 ![Alt Text](https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif)
 
