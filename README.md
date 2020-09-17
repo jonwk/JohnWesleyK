@@ -16,11 +16,17 @@ My name is John Wesley Kommala
   - [email](mailto:kjwesley2002@gmail.com)
 ### 📚 Quotes:
 > “The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful.” – Roy Mustang
+
 > “You’ve got two legs and a heartbeat. What’s stopping you?” – Inuyasha
+
 > “Human beings are strong because we can change ourselves.” – Saitama
+
 > “You don’t win alone. That’s just how it is.” – Tobio Kageyama
+
 > “Human potential for evolution is limitless.” – Isaac Netero
+
 > “My magic is never giving up!” – Asta
+
 > “If you don’t give up, you’ll get through.” – Asta
 ### 😄 Pronouns: 
 
