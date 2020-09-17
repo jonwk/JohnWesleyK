@@ -18,9 +18,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ### 📚 Quotes:
 > “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.” – Lamentations 3:22-23
 
-> “Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.
-
-” – Deuteronomy 31:6
+> “Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.” – Deuteronomy 31:6
 
 > “Jesus looked at them and said, ‘With man it is impossible, but not with God. For all things are possible with God.” – Mark 10:27
 
@@ -46,7 +44,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
 
 ### ⚡ Fun fact:
- - Fought obesity, over it successfully. Almost 40 KGS ⬇️. 
+ - Fought obesity, over it successfully. Almost 40 KGS ⬇️
  - Love the big three lifts, omw to unlocking clean pullups.
  - Have been doing origami and paper-crafts from a really long time.
  - Working on a broken laptop lol.
