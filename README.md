@@ -34,7 +34,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
 
 ### ⚡ Fun fact:
- - Fought obesity, over it successfully. 
+ - Fought obesity, over it successfully. Almost 40 KGS ⬇️. 
  - Love the big three lifts, omw to unlocking clean pullups.
  - Have been doing origami and paper-crafts from a really long time.
  - Working on a broken laptop lol.
