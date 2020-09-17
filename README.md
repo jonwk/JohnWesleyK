@@ -15,6 +15,9 @@ My name is John Wesley Kommala
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
 ### 😄 Pronouns: 
+
+![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
+
 ### ⚡ Fun fact: ...
 
 ## Thank you for visiting my profile
