@@ -2,7 +2,7 @@
 
 My name is John Wesley Kommala
 
-![Alt Text](https://media.giphy.com/media/ftHNle25rthTu19OAd/giphy.gif) 
+![Alt Text](https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif) 
 
 ### 🔭 I’m currently working on ...
 ### 🌱 I’m currently learning ...
