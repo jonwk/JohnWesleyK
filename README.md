@@ -16,6 +16,18 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
 ### 📚 Quotes:
+> “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.” – Lamentations 3:22-23
+
+> “Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.
+
+” – Deuteronomy 31:6
+
+> “Jesus looked at them and said, ‘With man it is impossible, but not with God. For all things are possible with God.” – Mark 10:27
+
+> “Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.” – Ephesians 3:20
+
+> “Difficulty is what wakes up the genius.” – Nassim Nicholas Taleb
+
 > “The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful.” – Roy Mustang
 
 > “You’ve got two legs and a heartbeat. What’s stopping you?” – Inuyasha
