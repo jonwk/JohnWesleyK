@@ -2,8 +2,10 @@
 
 My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)(Year-II) at [TCD](https://www.tcd.ie/).
 
-
-![Alt Text](https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif) 
+<p align="middle">
+  <img src="https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif"/> 
+</p>
+![Alt Text]() 
 
 ### 🔭 I’m currently working on:
   - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
