@@ -49,12 +49,8 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 
 > “If you don’t give up, you’ll get through.” – Asta
 ### 😄 Pronouns: 
-![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
-
 <p align="middle">
-  <img src="https://media.giphy.com/media/Lq0hQnohnU7h1dLZmD/giphy.giff" width="80" />
-  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="160" /> 
-  <img src="https://media.giphy.com/media/Lq0hQnohnU7h1dLZmD/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif" width="200" /> 
 </p>
 
 
@@ -65,7 +61,9 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
  - Have been doing origami and paper-crafts from a really long time.
  - Working on a broken laptop. RIP MSI GF63-8RC.
  
-![Alt Text](https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif)
+<p align="middle">
+  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="260" /> 
+</p>
 
  
 ### 🙏 Thanks for visiting my profile
