@@ -44,8 +44,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 
 > “If you don’t give up, you’ll get through.” – Asta
 ### 😄 Pronouns: 
-
-![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif) | ![Alt Text](https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif)
 
 ### ⚡ Fun fact:
  - Fought obesity, over it successfully. Almost 40 KGS ⬇️
