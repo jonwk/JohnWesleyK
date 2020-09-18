@@ -73,6 +73,7 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 
 <p align="middle">
   <img src="https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif" />
+  
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
 </p>
 
