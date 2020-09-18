@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)(Year-II) at [TCD](https://www.tcd.ie/).
+My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)(Year-II) at [TCD](https://www.tcd.ie/).
 
 <p align="middle">
   <img src="https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif"/> 
 </p>
-![Alt Text]() 
+
 
 ### 🔭 I’m currently working on:
   - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
@@ -60,7 +60,7 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ### ⚡ Fun fact:
 
 <p align="middle">
-  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="260" /> 
+  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" /> 
 </p>
 
  - Fought obesity, over it successfully. Almost 40 KGS ⬇️
@@ -71,7 +71,9 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
  
 ### 🙏 Thanks for visiting my profile
 
-![Alt Text](https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif)
+<p align="middle">
+  <img src="https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif" width="100" />
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/JohnWesleyK/count.svg)
 <!--
