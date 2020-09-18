@@ -18,9 +18,9 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ### 📚 Quotes:
 
 <p align="middle">
-  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif" width="160" /> 
-  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif" width="260" /> 
+  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
 </p>
 
 
@@ -50,21 +50,22 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 > “If you don’t give up, you’ll get through.” – Asta
 ### 😄 Pronouns: 
 <p align="middle">
-  <img src="https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif" width="200" /> 
+  <img src="https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif" width="300" /> 
 </p>
 
 
 
 ### ⚡ Fun fact:
+
+<p align="middle">
+  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="260" /> 
+</p>
+
  - Fought obesity, over it successfully. Almost 40 KGS ⬇️
  - Love the big three lifts, omw to unlocking clean pullups.
  - Have been doing origami and paper-crafts from a really long time.
  - Working on a broken laptop. RIP MSI GF63-8RC.
  
-<p align="middle">
-  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" width="260" /> 
-</p>
-
  
 ### 🙏 Thanks for visiting my profile
 
