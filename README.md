@@ -11,11 +11,15 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
 ### 🌱 I’m currently learning:
   - flask and django in python.
   - Data Structures and Algorithms in Java.
-
+  
 ### 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
 ### 📚 Quotes:
+
+![Alt Text](https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif)
+
+
 > “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.” – Lamentations 3:22-23
 
 > “Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.” – Deuteronomy 31:6
@@ -48,6 +52,9 @@ My name is John Wesley Kommala, I'm studying [ICS](https://www.scss.tcd.ie/under
  - Love the big three lifts, omw to unlocking clean pullups.
  - Have been doing origami and paper-crafts from a really long time.
  - Working on a broken laptop. RIP MSI GF63-8RC.
+ 
+![Alt Text](https://media.giphy.com/media/aFTt8wvDtqKCQ/giphy.gif)
+
  
 ### 🙏 Thanks for visiting my profile
 
