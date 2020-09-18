@@ -21,7 +21,7 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 
 <p align="middle">
   <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif" width="260" /> 
+  <img src="https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif" /> 
   <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
 </p>
 
@@ -60,7 +60,7 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 ### ⚡ Fun fact:
 
 <p align="middle">
-  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" /> 
+  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" " width="600"/> 
 </p>
 
  - Fought obesity, over it successfully. Almost 40 KGS ⬇️
