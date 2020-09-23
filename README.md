@@ -15,9 +15,6 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
   - flask and django in python.
   - Data Structures and Algorithms in Java.
   
-### 💼 Work Experience:
-  - **Freelance Tutor** 
-    - Taught high school graduates Java and ARM assembly language.
 ### 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
@@ -89,6 +86,9 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 💼 Work Experience:
+  - **Freelance Tutor** 
+    - Taught high school graduates Java and ARM assembly language.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
