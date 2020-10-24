@@ -9,12 +9,12 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 
 ### 🔭 I’m currently working on:
   - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
-  - Improving skills on web developement to make my own website.
+  - Improving skills on web developement to make my portfolio and few landing pages.
   
 ### 🌱 I’m currently learning:
+  - Improving skills in Data Structures and Algorithms.
+  - JavaScript.
   - flask and django in python.
-  - Data Structures and Algorithms in Java.
-  
 ### 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
   - [email](mailto:kjwesley2002@gmail.com)
