@@ -68,7 +68,7 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
  - Fought obesity, over it successfully. Almost 40 KGS ⬇️
  - Love the big three lifts, omw to unlocking clean pullups.
  - Have been doing origami and paper-crafts from a really long time.
- - Working on a broken laptop. RIP MSI GF63-8RC.
+ - Currently fixing a broken laptop. RIP MSI GF63-8RC.
  
  
 ### 🙏 Thanks for visiting my profile
