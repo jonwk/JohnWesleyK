@@ -157,6 +157,24 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+
+
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"></code>
+<code><img height="27" src="images/java.svg" alt="java"></code>
+<code><img height="27" src="images/c.svg" alt="c"></code>
+<code><img height="27" src="images/R_logo.svg.png" alt="R"></code>
+<code><img height="27" src="images/Processing_3_logo.png" alt="processing"></code>
+<code><img height="27" src="images/vs-code.svg" alt="vs_code"></code>
+
+<code><img height="27" src="images/html5.svg" alt="html"></code>
+<code><img height="27" src="images/css.svg" alt="css"></code>
+<code><img height="27" src="images/sass.png" alt="sass"></code>
+<code><img height="27" src="images/javascript.svg" alt="javascript"></code>
+<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
