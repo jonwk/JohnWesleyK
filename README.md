@@ -168,7 +168,6 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 <code><img height="27" src="images/R_logo.svg.png" alt="R"></code>
 <code><img height="27" src="images/Processing_3_logo.png" alt="processing"></code>
 <code><img height="27" src="images/vs-code.svg" alt="vs_code"></code>
-
 <code><img height="27" src="images/html5.svg" alt="html"></code>
 <code><img height="27" src="images/css.svg" alt="css"></code>
 <code><img height="27" src="images/sass.png" alt="sass"></code>
