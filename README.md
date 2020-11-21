@@ -10,13 +10,13 @@
 
  I'm **[John Wesley](https://github.com/JohnWesleyK)** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)🎓 at [TCD](https://www.tcd.ie/)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
- ### 🔭 I’m currently working on:
+ #### 🔭 I’m currently working on:
 - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
 - Improving skills on web developement to make my portfolio and few other interesting landing pages.
 - Trying to contribute to Open Source Projects.
 - Understanding and looking into different aspects / fields of Computer Science.
 
-### 🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 - Improving skills related to Data Structures and Algorithms.
 - JavaScript and react.
 - flask and django in python.
