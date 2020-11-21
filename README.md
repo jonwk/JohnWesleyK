@@ -1,10 +1,34 @@
-### Hi there 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)(Year-II) at [TCD](https://www.tcd.ie/).
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/johnwesleygithub)
+[![GMAIl](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnwesleygithub@gmail.com)
 
-<p align="middle">
+
+<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JohnWesleyK.JohnWesleyK&style=flat-square&color=0088cc) -->
+
+ I'm **[John Wesley](https://github.com/JohnWesleyK)** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)🎓 at [TCD](https://www.tcd.ie/)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
+
+## 🔧 Languages and Tools:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"></code>
+<code><img height="27" src="images/java.svg" alt="java"></code>
+<code><img height="27" src="images/c.svg" alt="c"></code>
+<code><img height="27" src="images/R_logo.svg.png" alt="R"></code>
+<code><img height="27" src="images/Processing_3_logo.png" alt="processing"></code>
+<code><img height="27" src="images/vs-code.svg" alt="vs_code"></code>
+<code><img height="27" src="images/html5.svg" alt="html"></code>
+<code><img height="27" src="images/css.svg" alt="css"></code>
+<code><img height="27" src="images/sass.png" alt="sass"></code>
+<code><img height="27" src="images/javascript.svg" alt="javascript"></code>
+<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="images/Markdown-mark.svg.png" alt="markdown"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+<!-- <p align="middle">
   <img src="https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif"/> 
-</p>
+</p> -->
 
 ### 🔭 I’m currently working on:
 
@@ -17,65 +41,6 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 - JavaScript.
 - flask and django in python.
 
-### 📫 How to reach me:
-
-- [linkedin](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
-- [email](mailto:kjwesley2002@gmail.com)
-
-### 📚 Quotes:
-
-<p align="middle">
-  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/dCdTUwSva7GOzPAcf3/source.gif" width="275" /> 
-  <img src="https://media.giphy.com/media/fu8GmsXKFzgOjMgjLp/giphy.gif" width="100" />
-</p>
-
-> “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.” – Lamentations 3:22-23
-
-> “Be strong and courageous. Do not be afraid or terrified because of them, or the LORD your God goes with you; he will never leave you nor forsake you.” – Deuteronomy 31:6
-
-> “Jesus looked at them and said, ‘With man it is impossible, but not with God. For all things are possible with God.” – Mark 10:27
-
-> “Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us.” – Ephesians 3:20
-
-> “Difficulty is what wakes up the genius.” – Nassim Nicholas Taleb
-
-> “The world isn’t perfect. But it’s there for us, doing the best it can….that’s what makes it so damn beautiful.” – Roy Mustang
-
-> “You’ve got two legs and a heartbeat. What’s stopping you?” – Inuyasha
-
-> “Human beings are strong because we can change ourselves.” – Saitama
-
-> “You don’t win alone. That’s just how it is.” – Tobio Kageyama
-
-> “Human potential for evolution is limitless.” – Isaac Netero
-
-> “My magic is never giving up!” – Asta
-
-> “If you don’t give up, you’ll get through.” – Asta
-
-### 😄 Pronouns:
-
-<p align="middle">
-  <img src="https://media.giphy.com/media/efyYRnym8v1Th8sJ0K/giphy.gif" width="300" /> 
-</p>
-
-### ⚡ Fun fact:
-
-<p align="middle">
-  <img src="https://media.giphy.com/media/fVc6G5zbFwxo2YGXIP/giphy.gif" " width="400"/> 
-</p>
-
-- Fought obesity, over it successfully. Almost 40 KGS ⬇️
-- Love the big three lifts, omw to unlocking clean pullups.
-- Have been doing origami and paper-crafts from a really long time.
-- Currently fixing a broken laptop. RIP MSI GF63-8RC.
-
-### 🙏 Thanks for visiting my profile
-
-<p align="middle">
-  <img src="https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif" />
-</p>
 
 <p align="middle">
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
@@ -157,23 +122,9 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 
 
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter"></code>
-<code><img height="27" src="images/java.svg" alt="java"></code>
-<code><img height="27" src="images/c.svg" alt="c"></code>
-<code><img height="27" src="images/R_logo.svg.png" alt="R"></code>
-<code><img height="27" src="images/Processing_3_logo.png" alt="processing"></code>
-<code><img height="27" src="images/vs-code.svg" alt="vs_code"></code>
-<code><img height="27" src="images/html5.svg" alt="html"></code>
-<code><img height="27" src="images/css.svg" alt="css"></code>
-<code><img height="27" src="images/sass.png" alt="sass"></code>
-<code><img height="27" src="images/javascript.svg" alt="javascript"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 <!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
