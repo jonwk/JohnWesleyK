@@ -6,8 +6,20 @@
 
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JohnWesleyK.JohnWesleyK&style=flat-square&color=0088cc) -->
+<img align="right" height="250" width="375" alt="" src="images/happy coder.gif" />
 
  I'm **[John Wesley](https://github.com/JohnWesleyK)** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)🎓 at [TCD](https://www.tcd.ie/)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
+
+ ### 🔭 I’m currently working on:
+- Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
+- Improving skills on web developement to make my portfolio and few landing pages.
+
+### 🌱 I’m currently learning:
+
+- Improving skills in Data Structures and Algorithms.
+- JavaScript.
+- flask and django in python.
+
 
 ## 🔧 Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
@@ -39,15 +51,7 @@
   <img src="https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif"/> 
 </p> -->
 
-### 🔭 I’m currently working on:
-- Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
-- Improving skills on web developement to make my portfolio and few landing pages.
 
-### 🌱 I’m currently learning:
-
-- Improving skills in Data Structures and Algorithms.
-- JavaScript.
-- flask and django in python.
 
 
 <p align="middle">
