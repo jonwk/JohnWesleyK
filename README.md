@@ -12,6 +12,7 @@
 
  ### 🔭 I’m currently working on:
 - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
+- Writing thousand of lines of code to make and test vhdl programs, 
 - Improving skills on web developement to make my portfolio and few landing pages.
 
 ### 🌱 I’m currently learning:
@@ -54,9 +55,7 @@
 
 
 
-<p align="middle">
-  <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
-</p>
+
 
 
 <!--END_SECTION:top-followers-->
@@ -128,7 +127,15 @@
   </details>
 
 
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<p align="middle">
+  <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
+</p>
 
 
 
