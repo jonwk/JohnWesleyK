@@ -6,7 +6,7 @@
 
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JohnWesleyK.JohnWesleyK&style=flat-square&color=0088cc) -->
-<img align="left" height="250" width="340" alt="" src="images/happy coder.gif" />
+<img align="right" height="250" width="340" alt="" src="images/happy coder.gif" />
 
  I'm **[John Wesley](https://github.com/JohnWesleyK)** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)🎓 at [TCD](https://www.tcd.ie/)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
