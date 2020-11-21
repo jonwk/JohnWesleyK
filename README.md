@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wesley-kommala-920739197/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/johnwesleygithub)
@@ -25,7 +25,12 @@
 <code><img height="27" src="images/Markdown-mark.svg.png" alt="markdown"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
+<!-- <details>	 -->
+  <!-- <summary><b> ⚡ Github Stats</b></summary> -->
+## ⚡ Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<!-- </details> -->
 <!-- <p align="middle">
   <img src="https://media.giphy.com/media/I5bk7sUToEBxe/giphy.gif"/> 
 </p> -->
@@ -46,7 +51,6 @@
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
 </p>
 
-# TEST
 
 <!--END_SECTION:top-followers-->
 <details>	
@@ -115,12 +119,8 @@
     </tr>
 </table>
   </details>
-<details>	
-  <summary><b> ⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+
 
 
 
