@@ -5,7 +5,7 @@
 [![GMAIl](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnwesleygithub@gmail.com)
 
 
-<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JohnWesleyK.JohnWesleyK&style=flat-square&color=0088cc) -->
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JohnWesleyK.JohnWesleyK&style=flat-square&color=0088cc)
 <img align="right" height="250" width="340" alt="" src="images/happy coder.gif" />
 
  I'm **[John Wesley](https://github.com/JohnWesleyK)** and I'm studying [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/)🎓 at [TCD](https://www.tcd.ie/)🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
@@ -13,13 +13,15 @@
  ### 🔭 I’m currently working on:
 - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
 - Writing thousand of lines of code to make and test vhdl programs, 
-- Improving skills on web developement to make my portfolio and few landing pages.
+- Improving skills on web developement to make my portfolio and few other interesting landing pages.
+- Trying to contribute to Open Source.
+- Understanding and looking into different aspects / fields of Computer Science.
 
 ### 🌱 I’m currently learning:
-
-- Improving skills in Data Structures and Algorithms.
-- JavaScript.
+- Improving skills related to Data Structures and Algorithms.
+- JavaScript and react.
 - flask and django in python.
+- Improving my Competitive Programming Skills.
 
 
 ## 🔧 Languages and Tools:
@@ -137,6 +139,10 @@
 <p align="middle">
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
 </p>
+<p align="middle">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-JohnWesleyK-%23fc0349" />
+</p>
+
 
 
 
