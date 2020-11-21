@@ -148,7 +148,9 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
     </tr>
 </table>
 <!--END_SECTION:top-followers-->
+<img align="right" alt="ouuan's github stats" width="700" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&theme=react">
 
+<!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
