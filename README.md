@@ -148,7 +148,13 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
     </tr>
 </table>
 <!--END_SECTION:top-followers-->
-<img align="right" alt="ouuan's github stats" width="700" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&theme=react">
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
 
 <!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
