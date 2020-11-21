@@ -115,8 +115,8 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
       <br />
       <a href="https://github.com/cppavel">cppavel</a>
     </td>
-    </tr>
-    <tr align = "center">
+    <!-- </tr>
+    <tr align = "center"> -->
     <td align="center">
       <a href="https://github.com/CianOG123">
         <img src="https://avatars3.githubusercontent.com/u/29048772?s=400&u=d4d6946f2c2124a868712df4f1f8548564de864e&v=4" width="75px" alt="CianOG123"/>
