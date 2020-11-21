@@ -81,10 +81,12 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
 </p>
 
-
 # TEST
 
-<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+<details>	
+  <summary><b> Followers</b></summary>
+  <!--START_SECTION:top-followers-->
 <table style="border: none;">
   <tr align = "center">
     <td align="center" style="border: none;">
@@ -115,8 +117,8 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
       <br />
       <a href="https://github.com/cppavel">cppavel</a>
     </td>
-    <!-- </tr>
-    <tr align = "center"> -->
+    </tr>
+    <tr align = "center">
     <td align="center">
       <a href="https://github.com/CianOG123">
         <img src="https://avatars3.githubusercontent.com/u/29048772?s=400&u=d4d6946f2c2124a868712df4f1f8548564de864e&v=4" style = "border-radius: 50%;" width="50px" alt="CianOG123"/>
@@ -147,14 +149,13 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
     </td>
     </tr>
 </table>
-<!--END_SECTION:top-followers-->
+  </details>
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b> ⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
 
 <!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
