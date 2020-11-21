@@ -135,10 +135,9 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-<p align="middle">
+<!-- <p align="middle">
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
-</p>
+</p> -->
 <p align="middle">
 <a href="https://github.com/JohnWesleyK">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-JohnWesleyK-%23fc0349" />
