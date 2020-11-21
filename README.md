@@ -58,10 +58,11 @@
 
 
 
-<!--END_SECTION:top-followers-->
+<!-- END_SECTION:top-followers
 <details>	
-  <summary><b> ✨ My Followers</b></summary>
+  <summary><b> ✨ My Followers</b></summary> -->
   <!--START_SECTION:top-followers-->
+ ## ✨ My Followers
 <table cellspacing="0" cellpadding="0">
   <tr align = "center" >
     <td align="center" >
@@ -124,7 +125,7 @@
     </td>
     </tr>
 </table>
-  </details>
+  <!-- </details> -->
 
 
 <div align="center">
