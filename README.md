@@ -40,7 +40,6 @@
 </p> -->
 
 ### 🔭 I’m currently working on:
-
 - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
 - Improving skills on web developement to make my portfolio and few landing pages.
 
