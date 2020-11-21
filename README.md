@@ -12,9 +12,8 @@
 
  ### 🔭 I’m currently working on:
 - Academics for second year at [Trinity College Dublin](https://www.tcd.ie/) in [ICS](https://www.scss.tcd.ie/undergraduate/computer-science/).
-- Writing thousand of lines of code to make and test vhdl programs, 
 - Improving skills on web developement to make my portfolio and few other interesting landing pages.
-- Trying to contribute to Open Source.
+- Trying to contribute to Open Source Projects.
 - Understanding and looking into different aspects / fields of Computer Science.
 
 ### 🌱 I’m currently learning:
