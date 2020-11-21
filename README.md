@@ -91,28 +91,28 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
   <tr align = "center" >
     <td align="center" >
       <a href="https://github.com/yifanzhu1592">
-        <img src="https://avatars2.githubusercontent.com/u/37624724?s=400&u=0d6496d8c81f82d1d4417974c6f85a04c131c364&v=4" style = "border-radius: 50%;" width="50px" alt="yifanzhu1592"/>
+        <img src="https://avatars2.githubusercontent.com/u/37624724?s=400&u=0d6496d8c81f82d1d4417974c6f85a04c131c364&v=4" style = "border-radius: 50%;" width="50rem" alt="yifanzhu1592"/>
       </a>
       <br />
       <a href="https://github.com/yifanzhu1592">yifanzhu1592</a>
     </td>
     <td align="center" >
       <a href="https://github.com/95ych">
-        <img src="https://avatars3.githubusercontent.com/u/55957942?s=400&u=52daffb829392af4442bc4e182c626ce1455c96a&v=4" style = "border-radius: 50%;" width="50px" alt="95ych"/>
+        <img src="https://avatars3.githubusercontent.com/u/55957942?s=400&u=52daffb829392af4442bc4e182c626ce1455c96a&v=4" style = "border-radius: 50%;" width="50rem" alt="95ych"/>
       </a>
       <br />
       <a href="https://github.com/Alantrivandrum">95ych</a>
     </td>
     <td align="center" >
       <a href="https://github.com/Alantrivandrum">
-        <img src="https://avatars3.githubusercontent.com/u/47579004?s=400&u=ab2b77405d13f8aaec53b14e59051f43c2f401b0&v=4" style = "border-radius: 50%;" width="50px" alt="Alantrivandrum"/>
+        <img src="https://avatars3.githubusercontent.com/u/47579004?s=400&u=ab2b77405d13f8aaec53b14e59051f43c2f401b0&v=4" style = "border-radius: 50%;" width="50rem" alt="Alantrivandrum"/>
       </a>
       <br />
       <a href="https://github.com/Alantrivandrum">Alantrivandrum</a>
     </td>
     <td align="center" >
       <a href="https://github.com/cppavel">
-        <img src="https://avatars3.githubusercontent.com/u/24837651?s=400&u=b36b994307e263dbeb0ad14e81b915935cdac962&v=4" style = "border-radius: 50%;" width="50pxs" alt="cppavel"/>
+        <img src="https://avatars3.githubusercontent.com/u/24837651?s=400&u=b36b994307e263dbeb0ad14e81b915935cdac962&v=4" style = "border-radius: 50%;" width="50rem" alt="cppavel"/>
       </a>
       <br />
       <a href="https://github.com/cppavel">cppavel</a>
@@ -121,28 +121,28 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
     <tr align = "center"> -->
     <td align="center" >
       <a href="https://github.com/CianOG123">
-        <img src="https://avatars3.githubusercontent.com/u/29048772?s=400&u=d4d6946f2c2124a868712df4f1f8548564de864e&v=4" style = "border-radius: 50%;" width="50px" alt="CianOG123"/>
+        <img src="https://avatars3.githubusercontent.com/u/29048772?s=400&u=d4d6946f2c2124a868712df4f1f8548564de864e&v=4" style = "border-radius: 50%;" width="50rem" alt="CianOG123"/>
       </a>
       <br />
       <a href="https://github.com/CianOG123">CianOG123</a>
     </td>
     <td align="center" >
       <a href="https://github.com/CSIGildea">
-        <img src="https://avatars2.githubusercontent.com/u/25468725?s=400&u=24d7bb7533e25f49c65b8db8487af91c21f316a2&v=4" style = "border-radius: 50%;" width="50px" alt="CSIGildea"/>
+        <img src="https://avatars2.githubusercontent.com/u/25468725?s=400&u=24d7bb7533e25f49c65b8db8487af91c21f316a2&v=4" style = "border-radius: 50%;" width="50rem" alt="CSIGildea"/>
       </a>
       <br />
       <a href="https://github.com/CSIGildea">CSIGildea</a>
     </td>
      <td align="center" >
       <a href="https://github.com/eli-scorpio">
-        <img src="https://avatars0.githubusercontent.com/u/62078721?s=400&u=47614c8177500c40e6e0a83b74e355fd35461a53&v=4" style = "border-radius: 50%;" width="50px" alt="eli-scorpio"/>
+        <img src="https://avatars0.githubusercontent.com/u/62078721?s=400&u=47614c8177500c40e6e0a83b74e355fd35461a53&v=4" style = "border-radius: 50%;" width="50rem" alt="eli-scorpio"/>
       </a>
       <br />
       <a href="https://github.com/eli-scorpio">eli-scorpio</a>
     </td>
     <td align="center" >
       <a href="https://github.com/borsakv">
-        <img src="https://avatars2.githubusercontent.com/u/60220650?s=400&u=17215877e7053749c0b861ac47c11a6b3dcaa406&v=4" style = "border-radius: 50%;" style = "border-radius: 50%;" width="50px" alt="borsakv"/>
+        <img src="https://avatars2.githubusercontent.com/u/60220650?s=400&u=17215877e7053749c0b861ac47c11a6b3dcaa406&v=4" style = "border-radius: 50%;" style = "border-radius: 50%;" width="50rem" alt="borsakv"/>
       </a>
       <br />
       <a href="https://github.com/borsakv">borsakv</a>
