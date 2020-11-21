@@ -85,9 +85,9 @@ My name is **John Wesley Kommala** and I'm studying [ICS](https://www.scss.tcd.i
 # TEST
 
 <!--START_SECTION:top-followers-->
-<table>
+<table style="border: none;">
   <tr align = "center">
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/yifanzhu1592">
         <img src="https://avatars2.githubusercontent.com/u/37624724?s=400&u=0d6496d8c81f82d1d4417974c6f85a04c131c364&v=4" width="50px" alt="yifanzhu1592"/>
       </a>
