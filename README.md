@@ -28,14 +28,10 @@
 <!-- <details>	 -->
   <!-- <summary><b> ⚡ Github Stats</b></summary> -->
 ## ⚡ Github Stats
-<div class="row">
-  <div class="column">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" alt="Github Stats" style="width:100%" />
-  </div>
-  <div class="column">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"alt="Most used languages " style="width:100%" />
-  </div>
-</div>
+<p float="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnWesleyK&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWesleyK&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 <!-- </details> -->
