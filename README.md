@@ -35,7 +35,7 @@
 <code><img height="27" src="images/css.svg" alt="css"></code>
 <code><img height="27" src="images/sass.png" alt="sass"></code>
 <code><img height="27" src="images/javascript.svg" alt="javascript"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="images/Git-Logo.png" alt="git"></code>
 <code><img height="27" src="images/Markdown-mark.svg.png" alt="markdown"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
