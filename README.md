@@ -69,8 +69,8 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-JohnWesleyK-%23fc0349" />
 </p>
 
- ##### highly recommended viewing this in dark mode
- 
+ ##### - highly recommended viewing this in dark mode 🌙
+
 
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
