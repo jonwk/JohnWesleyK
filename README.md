@@ -60,7 +60,7 @@
 
 ### Show some ❤️ by starring some of the repositories! -->
 
-</div>
+<!-- </div> -->
 <!-- <p align="middle">
   <img src="https://profile-counter.glitch.me/JohnWesleyK/count.svg" />
 </p> -->
@@ -69,10 +69,8 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8Fby-JohnWesleyK-%23fc0349" />
 </p>
 
+ <font size="0.75" align="middle">optimised for dark-mode</font>
 
-
-
-<!-- ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg) -->
 <!--
 **JohnWesleyK/JohnWesleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
